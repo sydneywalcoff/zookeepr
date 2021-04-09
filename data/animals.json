@@ -127,6 +127,17 @@
         "anxious"
       ],
       "id": "12"
+    },
+    {
+      "name": "Oscar",
+      "species": "Otter",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
